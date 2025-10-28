@@ -1,1 +1,1 @@
-# url-swapper
+Bazı veletlerin satmaya calıstığı koddur:D
